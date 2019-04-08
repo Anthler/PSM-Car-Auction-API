@@ -1,0 +1,6 @@
+{
+  "name": "PSM CARS",
+  "mail": {
+    "host": "prod-mail-server"
+  }
+}
